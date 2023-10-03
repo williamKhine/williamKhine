@@ -1,5 +1,6 @@
-### Hi there 👋
+## Hey, welcome to my profile 👋
 
+I am a second year Computer Science student studying at Toronto Metropolitan University.
 <!--
 **williamKhine/williamKhine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
